@@ -1,3 +1,3 @@
-vpcid = "vpc-065fab7020f7c5f30"
-routetableid = "rtb-0707c1e64d8e8fd71"
+vpcid = "vpc-02aaac29928ce943d"
+routetableid = "rtb-02420b43c3dedbb6e"
 adminpolicyarn = "arn:aws:iam::aws:policy/AdministratorAccess"
