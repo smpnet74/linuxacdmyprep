@@ -1,2 +1,1 @@
 # linuxacdmyprep
-new deploy
